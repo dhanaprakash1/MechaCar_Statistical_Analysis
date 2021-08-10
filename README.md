@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 
-Screenshot to be refered:- https://github.com/asitkumar26/MechaCar_Statistical_Analysis/blob/main/linear-progression-mpg.png
+Screenshot to be refered:- https://github.com/dhanaprakash1/MechaCar_Statistical_Analysis/blob/main/linear-progression-mpg.png
 
 Question: Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset? 
 Answer: Vehicle_length and Ground Cleanace are statistically unlikely to provide random amounts of variance to the the mpg values in the dataset.
